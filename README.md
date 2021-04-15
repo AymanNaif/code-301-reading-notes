@@ -17,5 +17,3 @@ Section seven  |
 Section nine |
 Section ten | 
 Section eleven | 
-
-#### **note** that you can find *code102* [reading-notes](https://aymannaif.github.io/reading-notes/)
