@@ -1,6 +1,6 @@
 # Code 301 Reading Notes
 
-![software devloper](https://granitedevices.com/wp-content/uploads/2019/12/swdeveloper.jpg)
+![software devloper](https://d3kqdc25i4tl0t.cloudfront.net/articles/content/543_378726_tech.hero.jpg)
 
 ## [code 101 & 102 reading notes](https://aymannaif.github.io/reading-notes/)
 ## [code 201 reading notes](https://aymannaif.github.io/code-201-reading-notes/)
