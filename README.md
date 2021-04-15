@@ -1,6 +1,6 @@
 # Code 301 Reading Notes
 
-![software devloper](https://d3kqdc25i4tl0t.cloudfront.net/articles/content/543_378726_tech.hero.jpg)
+![software devloper](https://res.cloudinary.com/practicaldev/image/fetch/s--xG1gcsyJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg)
 
 ## [code 101 & 102 reading notes](https://aymannaif.github.io/reading-notes/)
 ## [code 201 reading notes](https://aymannaif.github.io/code-201-reading-notes/)
