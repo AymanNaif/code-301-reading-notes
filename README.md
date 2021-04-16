@@ -9,7 +9,8 @@
 
 the section | subject
 ------------ | -------------
-section one | [Read 01](https://aymannaif.github.io/code-301-reading-notes/Read01)
+section one | [SMACSS and Responsive Web Design
+](https://aymannaif.github.io/code-301-reading-notes/Read01)
 section two | 
 section three | 
 Section Four | 
