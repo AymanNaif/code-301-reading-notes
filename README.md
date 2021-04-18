@@ -10,7 +10,7 @@
 the section | subject
 ------------ | -------------
 section one | [SMACSS and Responsive Web Design](https://aymannaif.github.io/code-301-reading-notes/Read01)
-section two | 
+section two | [jQuery, Events, and The DOM](https://aymannaif.github.io/code-301-reading-notes/Read-02)
 section three | 
 Section Four | 
 Section Five | 
