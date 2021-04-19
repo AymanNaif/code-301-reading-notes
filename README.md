@@ -11,7 +11,7 @@ the section | subject
 ------------ | -------------
 section one | [SMACSS and Responsive Web Design](https://aymannaif.github.io/code-301-reading-notes/Read01)
 section two | [jQuery, Events, and The DOM](https://aymannaif.github.io/code-301-reading-notes/Read-02)
-section three | 
+section three | [Templating with Mustache](https://aymannaif.github.io/code-301-reading-notes/Read-03)
 Section Four | 
 Section Five | 
 Section six  | 
