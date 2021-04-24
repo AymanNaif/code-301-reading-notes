@@ -12,9 +12,9 @@ the section | subject
 section one | [SMACSS and Responsive Web Design](https://aymannaif.github.io/code-301-reading-notes/Read01)
 section two | [jQuery, Events, and The DOM](https://aymannaif.github.io/code-301-reading-notes/Read-02)
 section three | [Templating with Mustache](https://aymannaif.github.io/code-301-reading-notes/Read-03)
-Section Four | 
-Section Five | 
-Section six  | 
+Section Four | [RegExr & CSS Grid & Regex](https://aymannaif.github.io/code-301-reading-notes/Read-04)
+Section Five | [Heroku](https://aymannaif.github.io/code-301-reading-notes/Read-05)
+Section six  | [Node, Express, and APIs](https://aymannaif.github.io/code-301-reading-notes/Read-06)
 Section seven  | 
 Section nine |
 Section ten | 
